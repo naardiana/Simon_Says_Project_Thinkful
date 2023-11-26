@@ -12,10 +12,10 @@ html {
 
 body {
   color: #FFC300;
-  font-family: 'Oleo Script', cursive;
+  font-family: 'Arial', cursive;
   display: flex;
   justify-content: center;
-  height: 100vh;
+  height: 70vh;
   align-items: center;
 }
 
